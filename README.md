@@ -18,4 +18,4 @@ The data science team assures me that their dataset engineering techniques are s
 ### Business Question
 Build a machine learning model to predict how much revenue to expect over the first year of each customer's life cycle.
 
-### How to download and analyze my work
+### How to download and review my work
