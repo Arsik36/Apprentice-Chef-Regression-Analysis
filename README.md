@@ -19,10 +19,10 @@ The data science team assures me that their dataset engineering techniques are s
 Build a machine learning model to predict how much revenue to expect over the first year of each customer's life cycle.
 
 ### How to download and review my work
-Please follow the instructions below to download and review my work. The steps below assume that you have Jupyter Notebook installed on your computer. 
+Please follow the instructions below to download and review my work. The steps below assume that you either have Jupyter Notebook installed on your computer, or are able to open files with the ".ipynb" extention.
 
 1. Download "Apprentice Chef - Regression Analysis.ipynb" from this repository.
-2. Open "Apprentice Chef - Regression Analysis.ipynb" in your Jupyter Notebook, but don't run it just yet.
+2. Open "Apprentice Chef - Regression Analysis.ipynb", but don't run it just yet.
 3. Download "Apprentice_Chef_Dataset.xlsx" and save it in your working directory.
 4. At this time, "Apprentice Chef - Regression Analysis.ipynb" will run without errors.
 5. Download "Apprentice_Chef_Data_Dictionary.xlsx" to learn more about metadata of each feature found in the dataset.
