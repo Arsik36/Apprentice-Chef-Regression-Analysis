@@ -14,3 +14,8 @@ In order to appropriately prepare the data for this analysis, the data science t
 2. At least one purchase per quarter and at least 15 purchases throughout their first year
 
 The data science team assures me that their dataset engineering techniques are statistically sound and represent the true picture of Apprentice Chef’s customers. To help me in my task, Apprentice Chef, Inc. has provided me with the dataset and additional information about the company.
+
+# Business Question
+Build a machine learning model to predict how much revenue to expect over the first year of each customer's life cycle.
+
+# How to download and analyze my work
